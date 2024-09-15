@@ -1,9 +1,3 @@
-## 💻 About Me:
-I am a Computer Science student from Germany, specializing in the development of efficient and scalable web applications. My current focus is on building web applications utilizing a Java Spring Boot backend, as well as developing Java and JavaScript applications for my employer.
-
-In my role at a medium-sized trading company, I contribute to digital transformation initiatives by implementing Document Management Systems (DMS), administering Enterprise Resource Management (ERM) and Customer Relationship Management (CRM) systems, and providing first-level support. Additionally, I serve as the primary point of contact for management at one business location, assisting in the implementation of new ideas and the streamlining of processes.<br><br>
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tim__sommer) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@TimS0mm3r) 
 
